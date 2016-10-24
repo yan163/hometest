@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>css number one</title>
+
+<script>
+function displayDate(){
+document.getElementById("demo").innerHTML=Date();
+}
+</script>
+<style>
+.center
+{
+background-color:#000000;
+text-align:center;
+ color:blue;
+}
+p.center{
+color:pink;
+text-align:right;
+font-size:50pt;
+background-color:#e0ffff;
+}
+#para1
+{
+	text-align:center;
+	color:red;
+} 
+body
+{
+	background-image:url("3.png");
+	background-repeat:no-repeat;
+}
+a:link {color:#FF0000;}      /* 未访问链接*/
+a:visited {color:#00FF00;}  /* 已访问链接 */
+a:hover {color:#FF00FF;}  /* 鼠标移动到链接上 */
+a:active {color:#0000FF;}  /* 鼠标点击时 */
+</style>
+</head>
+<body>
+<h1 class="center" >第一个css</h1>
+<p   class="center" id="demo" >第一个段落 </p>
+<button type="button" onclick="displayDate()">显示日期</button>
+<p id="para1">这是ID选择器</p>
+<p><b><a href="two.html"target="_blank">连接</a></b></p>
+</body>
+
+
+</html>
