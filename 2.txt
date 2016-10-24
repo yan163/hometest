@@ -1,0 +1,5 @@
+1111111111111111111111111111
+方法很简单，按下键盘上的“F7”见就可以看到历史记录了。我们可以使用上下键来选择历史记录，对于输入了很多命令的用户来说，比使用“↑”和“↓”键方便快捷。
+F:\app\Administrator\product\11.2.0\client_1;F:\client_1\bin;%MAVEN_HOME%\bin;%JAVA_HOME%\bin;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;E:\maven\bin;D:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;%SONAR_RUNNER_HOME%\bin;E:\workTOLL\tosvn\bin;%CATALINA_HOME%\bin;%CATALINA_HOME%\lib
+SHA256:XX5yHw9O6Z8OacbjWlAB/HBciMKIIvnVist21xPzioc
+SHA256:Y1GtXBDzNEbLakCrN2ZxlIXoyLcpboQ4KCIwWqj67fs 
